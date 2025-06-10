@@ -63,7 +63,7 @@ Java 기반의 백엔드 개발을 중심으로 다양한 팀 프로젝트를 �
 
 - SQLD 자격증 보유  
 - TOEIC 950  
-- MIPS / Logisim 기반 CPU 아키텍처 구현 경험 (컴퓨터구조 과목)
+- MIPS / Logisim 기반 마이크로프로세서 구현 경험 (컴퓨터구조 과목)
 - CSV 기반 데이터 시각화 경험 (Python, Pandas, Matplotlib 활용)
 - Notion 문서화  
 
