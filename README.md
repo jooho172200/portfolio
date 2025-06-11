@@ -38,12 +38,12 @@ Java 기반의 백엔드 개발을 중심으로 다양한 팀 프로젝트를 �
 ### 캡스톤 프로젝트
 ![Group 1 (1)](https://github.com/user-attachments/assets/7ac3e9eb-04ca-4cad-9c40-d5fd1bf83e99)
 
-#### 조직도 시스템 리팩토링
+#### 조직도 시스템 개선
 
 > **기술 스택**: Java 17, Spring Boot 3.4.1, Gradle, MySQL, JSP, jQuery  
 > **링크**: [GitHub Repository](https://github.com/jooho172200/new_orgtree)
 
-- 기업 의뢰로 제공된 조직도 시스템의 코드를 최신 환경으로 리팩토링  
+- 기업 의뢰로 제공된 조직도 시스템의 코드를 최신 환경으로 개선  
 - Maven → Gradle 전환, Spring Boot 3.4.1 업그레이드, UI 전면 개선  
 - 기업 멘토와의 회의 기반 요구사항 정의 및 피드백 반영  
 - Gmail 연동 크롬 확장 프로그램과 함께 동작하도록 연계
