@@ -27,7 +27,7 @@ Java 기반의 백엔드 개발을 중심으로 다양한 팀 프로젝트를 �
 > **기술 스택**: Java, Spring Boot, WebSocket  
 > **링크**: 
 > - [Github Repository](https://github.com/Software-Engineering-GoldStone/Backend)
-> - [관련 문서](https://www.notion.so/20e18b3a3fee80d98065fa0774099307)  
+> - [정리 문서](https://www.notion.so/20e18b3a3fee80d98065fa0774099307)  
 
 - 실시간 카드 사용, 길 연결 로직 구현  
 - Action/Path 카드 사용 처리 → Socket.IO 기반 이벤트 통신  
